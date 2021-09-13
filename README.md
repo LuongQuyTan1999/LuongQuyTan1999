@@ -1,4 +1,4 @@
-# Hi! Im T
+<h1 align='center'>Hi! Im Tan</h1>
 
 About me:
 
