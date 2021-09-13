@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
+[a relative link](other_file.md)
 
 - 🔭 I’m currently working on DigitalUnicorn
 - 🌱 I’m currently learning Threejs, Animation with GSAP, NextJS 
