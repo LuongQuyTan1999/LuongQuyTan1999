@@ -9,7 +9,7 @@ About me:
      - 🌱 I’m currently learning Threejs, Animation with GSAP, NextJS 
      - 👯 I’m looking to collaborate on Reactjs
 <td >
-     <a href="https://app.daily.dev/quytan"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+     <a href="https://app.daily.dev/quytan"><img src="https://api.daily.dev/devcards/1d17b760c8ea4b3ca7e87c9257dc3e2a.png?r=2ck" width="400" alt="Lương Quý Tân's Dev Card"/></a>
    </td>
 
  </tr>
