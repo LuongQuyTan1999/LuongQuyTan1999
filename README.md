@@ -5,7 +5,7 @@ About me:
 <table>
  <tr>
   <td valign="center">
-     - 🔭 I’m currently working on DigitalUnicorn
+     - 🔭 I’m currently working on **DigitalUnicorn**
      - 🌱 I’m currently learning Threejs, Animation with GSAP, NextJS 
      - 👯 I’m looking to collaborate on Reactjs
 <td >
