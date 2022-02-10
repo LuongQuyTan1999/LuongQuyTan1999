@@ -1,12 +1,24 @@
 <h1 align="center">Hi 👋, I'm Tân</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-## About me📈
-- 🔭 I’m currently working on **Digital Unicorn**
+## About Me🧑🏼‍💻
 
-- 🌱 I’m currently learning **Threejs, Animation with GSAP, NextJS**
+<table>
+  <tr>
+    <td valign="center">
+      
+🎓 I’m currently working on **Digital Unicorn**.
 
-<!-- <a href="https://app.daily.dev/quytan"><img src="https://api.daily.dev/devcards/1d17b760c8ea4b3ca7e87c9257dc3e2a.png?r=odb" width="400" alt="Lương Quý Tân's Dev Card"/></a> -->
+🌱 I’m currently learning **Threejs, Animation with GSAP, NextJS**.
+
+<td >
+<a href="https://app.daily.dev/quytan"><img src="https://api.daily.dev/devcards/1d17b760c8ea4b3ca7e87c9257dc3e2a.png?r=odb" width="400" alt="Lương Quý Tân's Dev Card"/></a>
+    </td>
+    
+  </tr>
+  </table>
+
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuongQuyTan1999&theme=dracula&hide_border=true)
 
@@ -16,6 +28,9 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuongQuyTan1999&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="LuongQuyTan1999" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuongQuyTan1999&theme=highcontrast&hide_border=true" alt="LuongQuyTan1999" />
 </p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
