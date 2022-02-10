@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/quytan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="quytan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/l%c6%b0%c6%a1ng-q%c3%bay-t%c3%a2n-91833719a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/l%c6%b0%c6%a1ng-q%c3%bay-t%c3%a2n-91833719a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/luongquytan1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luongquytan1999" height="30" width="40" /></a>
+<a href="https://app.daily.dev/quytan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="quytan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/l%C6%B0%C6%A1ng-q%C3%BAy-t%C3%A2n-91833719a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/l%c6%b0%c6%a1ng-q%c3%bay-t%c3%a2n-91833719a/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/luongquytan1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luongquytan1999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
