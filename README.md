@@ -2,11 +2,21 @@
 
 About me:
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C6%B0%C6%A1ng-q%C3%BAy-t%C3%A2n-91833719a/) [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luongquytan1999)
+<table>
+ <tr>
+   <td valign="center">
+     🔭 I’m currently working on DigitalUnicorn
+     🌱 I’m currently learning Threejs, Animation with GSAP, NextJS 
+     👯 I’m looking to collaborate on Reactjs
+   <td >
+ # this is my daily.dev card, you can edit this accordingly
+     <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+   </td>
 
-- 🔭 I’m currently working on DigitalUnicorn
-- 🌱 I’m currently learning Threejs, Animation with GSAP, NextJS 
-- 👯 I’m looking to collaborate on Reactjs
+ </tr>
+</table>
+<!-- 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C6%B0%C6%A1ng-q%C3%BAy-t%C3%A2n-91833719a/) [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luongquytan1999) -->
 
 Language i have used:
 
