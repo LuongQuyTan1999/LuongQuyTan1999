@@ -9,6 +9,12 @@ About me:
       🌱 I’m currently learning Threejs, Animation with GSAP, NextJS.
       👯 I’m looking to collaborate on Reactjs.
 <td >
+ <td valign="center">
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+    🌱 I am currently learning **Java** and also interested in **Web Development**.
+    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    ✨ I love to create different types of **contents**.
+<td >
      <a href="https://app.daily.dev/quytan"><img src="https://api.daily.dev/devcards/1d17b760c8ea4b3ca7e87c9257dc3e2a.png?r=2ck" width="400" alt="Lương Quý Tân's Dev Card"/></a>
    </td>
 
